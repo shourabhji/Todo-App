@@ -1,0 +1,20 @@
+.cointaner{
+ 
+    text-align: center;
+  
+}
+#text_title{
+    width: 60%;
+    font-size: .8rem;
+
+}
+#text_desc{
+    width: 60%;
+    height:10vh ;
+ font-size:.8rem ;
+
+}
+#btn{
+    background-color: green;
+    color: white;
+}

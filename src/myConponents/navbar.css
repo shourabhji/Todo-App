@@ -1,0 +1,13 @@
+.navbar{
+    color:white ;
+    background-color: black;
+}
+/* #about{
+    color: white;
+    text-decoration: none;
+margin-left:4% ;
+} */
+#logo{
+font-size: 2rem;
+font-weight: bolder;
+}
