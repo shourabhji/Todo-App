@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shourabh/static/css/main.aa30e852.chunk.css",
+    "main.js": "/shourabh/static/js/main.0c028f09.chunk.js",
+    "main.js.map": "/shourabh/static/js/main.0c028f09.chunk.js.map",
+    "runtime-main.js": "/shourabh/static/js/runtime-main.891cc20b.js",
+    "runtime-main.js.map": "/shourabh/static/js/runtime-main.891cc20b.js.map",
+    "static/js/2.9cb66828.chunk.js": "/shourabh/static/js/2.9cb66828.chunk.js",
+    "static/js/2.9cb66828.chunk.js.map": "/shourabh/static/js/2.9cb66828.chunk.js.map",
+    "static/js/3.45ef9092.chunk.js": "/shourabh/static/js/3.45ef9092.chunk.js",
+    "static/js/3.45ef9092.chunk.js.map": "/shourabh/static/js/3.45ef9092.chunk.js.map",
+    "index.html": "/shourabh/index.html",
+    "static/css/main.aa30e852.chunk.css.map": "/shourabh/static/css/main.aa30e852.chunk.css.map",
+    "static/js/2.9cb66828.chunk.js.LICENSE.txt": "/shourabh/static/js/2.9cb66828.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.891cc20b.js",
+    "static/js/2.9cb66828.chunk.js",
+    "static/css/main.aa30e852.chunk.css",
+    "static/js/main.0c028f09.chunk.js"
+  ]
+}
