@@ -1,4 +1,4 @@
-# this project isbosed on addig and deleting array to show our tasks
+# This project is based on addig and deleting array to show our tasks.
 
 # Getting Started with Create React App
 
